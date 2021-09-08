@@ -2,9 +2,6 @@ appdirs==1.4.4
 bcrypt==3.2.0
 cffi==1.14.4
 click==7.1.2
-distlib==0.3.1
-dlib==19.22.0
-dnspython==2.1.0
 email-validator==1.1.2
 filelock==3.0.12
 Flask==1.1.2
